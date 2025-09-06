@@ -1,6 +1,6 @@
 # 👋 Hi, I'm **Anurag Verma**
 
-I’m a **B.Tech CSE (AI) student** passionate about building **intelligent systems** that solve real-world problems.  
+I’m a B.Tech CSE (AI) student passionate about learning and exploring new things that solve real-world problems.
 
 With a strong foundation in **Data Structures and Algorithms (DSA)**, I actively practice problem-solving on platforms like **LeetCode** and **CodeChef**. Alongside DSA, I’ve studied **Artificial Intelligence (AI)**, **Machine Learning (ML)**, and **Deep Learning (DL)** as part of my coursework and implemented small projects to explore their applications.  
 
@@ -26,7 +26,8 @@ With a strong foundation in **Data Structures and Algorithms (DSA)**, I actively
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/anuragverma4895/)  
 - 💻 [LeetCode](https://leetcode.com/u/AnuragVerma4895/)  
-- 🍜 [CodeChef](https://www.codechef.com/users/anuragverma489)  
+- 🍜 [CodeChef](https://www.codechef.com/users/anuragverma489)
+- ⚡ [Codeforces](https://codeforces.com/profile/anuragverma4895)
 
 ---
 
