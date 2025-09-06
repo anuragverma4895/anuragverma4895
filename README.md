@@ -2,7 +2,8 @@
 
 I’m a B.Tech CSE (AI) student passionate about learning and exploring new things that solve real-world problems.
 
-I have a strong foundation in Data Structures and Algorithms (DSA) and actively practice problem-solving on platforms like LeetCode, CodeChef, and Codeforces. Alongside DSA, I’ve studied Artificial Intelligence (AI), Machine Learning (ML), and Deep Learning (DL) as part of my coursework and implemented small projects to explore their applications.
+I have a strong foundation in Data Structures and Algorithms (DSA) and actively practice problem-solving on platforms like LeetCode, CodeChef, and Codeforces. Alongside DSA, I’ve studied Artificial Intelligence (AI), Machine Learning (ML), and Deep Learning (DL) as part of my coursework and implemented small projects to explore their applications.I’m a B.Tech CSE (AI) student passionate about learning and exploring new things that solve real-world problems.
+
 ---
 
 ## 🧠 Skills & Tools  
