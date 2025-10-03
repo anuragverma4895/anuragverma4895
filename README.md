@@ -25,8 +25,8 @@ I have a strong foundation in **Data Structures and Algorithms (DSA)** and activ
 ## 🤝 Let's Connect  
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/anuragverma4895/)  
-- 💻 [LeetCode](https://leetcode.com/u/AnuragVerma4895/)  
-- 🍜 [CodeChef](https://www.codechef.com/users/anuragverma489)
+- 💻 [LeetCode](https://leetcode.com/u/AnuragVerma2035/)  
+- 🍜 [CodeChef](https://www.codechef.com/users/anuragverma203)
 - ⚡ [Codeforces](https://codeforces.com/profile/anuragverma4895)
 
 ---
