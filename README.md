@@ -1,9 +1,9 @@
 <!-- ======================== HEADER ======================== -->
 
-<h1 align="center">Hi 👋, I'm Anurag Verma</h1>
+<h1 align="center">Hi, I'm Anurag Verma</h1>
 
 <h3 align="center">
-🚀 Web Developer | 🤖 Machine Learning Enthusiast | 🧠 Deep Learning Explorer | ⚡ Artificial Intelligence Learner
+Web Developer| Artificial Intelligence | Machine Learning | Deep Learning Explorer
 </h3>
 
 <p align="center">
