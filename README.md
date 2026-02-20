@@ -3,7 +3,7 @@
 <h1 align="center">Hi, I'm Anurag Verma</h1>
 
 <h3 align="center">
-Web Developer| Artificial Intelligence | Machine Learning | Deep Learning Explorer
+Web Developer | Artificial Intelligence | Machine Learning | Deep Learning Explorer
 </h3>
 
 <p align="center">
