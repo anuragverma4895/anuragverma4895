@@ -33,9 +33,15 @@ Web Developer | Artificial Intelligence | Machine Learning | Deep Learning Explo
 ## 🤝 Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/anuragverma4895/" target="_blank">LinkedIn</a> • 
-  <a href="https://instagram.com/anurag_verma_575" target="_blank">Instagram</a> • 
-  <a href="mailto:anuragverma4895@gmail.com">Gmail</a>
+  <a href="https://www.linkedin.com/in/anuragverma4895/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/anurag_verma_575" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="mailto:anuragverma4895@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 ---
@@ -43,7 +49,6 @@ Web Developer | Artificial Intelligence | Machine Learning | Deep Learning Explo
 <p align="center">
   💡 “Consistency + Code + Curiosity = Growth” 🚀
 </p>
-
 
 <!-- Snake Game Repo View -->
 
