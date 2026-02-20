@@ -12,15 +12,23 @@
 
 ---
 
-## 🧑‍💻 About Me  
+## About Me
 
-- 🎓 B.Tech CSE (AI) Student  
-- 🧠 Strong foundation in **Data Structures & Algorithms**  
-- 🏆 Active Competitive Programmer  
-- 🌱 Currently learning **MERN Stack & Advanced AI Concepts**  
-- 🚀 Passionate about building real-world tech solutions  
+<p align="center">
+B.Tech Computer Science (Artificial Intelligence) student with a strong analytical mindset and disciplined problem-solving approach.
+</p>
 
----
+<p align="center">
+Focused on mastering <b>Data Structures & Algorithms</b> and consistently improving through competitive programming.
+</p>
+
+<p align="center">
+Building scalable applications using the <b>MERN Stack</b> while exploring advanced concepts in <b>Artificial Intelligence, Machine Learning, and Deep Learning</b>.
+</p>
+
+<p align="center">
+Driven by the goal of developing impactful, real-world technology solutions.
+</p>
 
 ## ⚡ Tech Stack
 
