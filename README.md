@@ -19,11 +19,6 @@ Web Developer | Artificial Intelligence | Machine Learning | Deep Learning Explo
   <img src="https://skillicons.dev/icons?i=cpp,python,javascript" />
 </p>
 
-### 🧠 Core Concepts
-- Data Structures & Algorithms  
-- Object-Oriented Programming  
-- Problem Solving & Competitive Programming  
-
 ### 🤖 AI / ML / DL
 <p>
   <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
@@ -57,18 +52,6 @@ Libraries: **NumPy • Pandas • Matplotlib**
     <img src="https://img.shields.io/badge/Codolio-6C63FF?style=for-the-badge" />
   </a>
 </p>
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AnuragVerma2035&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnuragVerma2035&theme=tokyonight" />
-</p>
-
 ---
 
 ## 🤝 Let's Connect
