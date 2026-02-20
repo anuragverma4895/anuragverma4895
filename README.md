@@ -12,27 +12,6 @@ Web Developer | Artificial Intelligence | Machine Learning | Deep Learning Explo
 
 ---
 
-## ⚡ Tech Stack
-
-### 👨‍💻 Programming Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=cpp,python,javascript" />
-</p>
-
-### 🤖 AI / ML / DL
-<p>
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
-</p>
-
-Libraries: **NumPy • Pandas • Matplotlib**
-
-### 🌐 Web Development (MERN)
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs" />
-</p>
-
----
-
 ## Competitive Programming
 
 <p align="center">
@@ -58,7 +37,13 @@ Libraries: **NumPy • Pandas • Matplotlib**
 
 <p align="center">
   <a href="https://www.linkedin.com/in/anuragverma4895/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Anurag%20Verma-0077B5?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-Anurag%20Verma-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/anurag_verma_575" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-anurag__verma__575-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="mailto:anuragverma4895@gmail.com">
+    <img src="https://img.shields.io/badge/Email-anuragverma4895@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
@@ -67,10 +52,6 @@ Libraries: **NumPy • Pandas • Matplotlib**
 <p align="center">
   💡 “Consistency + Code + Curiosity = Growth” 🚀
 </p>
-
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/anurag_verma_575) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anuragverma4895) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anuragverma4895@gmail.com) 
 
 <!-- Snake Game Repo View -->
 
