@@ -12,24 +12,6 @@ Web Developer | Artificial Intelligence | Machine Learning | Deep Learning Explo
 
 ---
 
-## About Me
-
-<p align="center">
-B.Tech Computer Science (Artificial Intelligence) student with a strong analytical mindset and disciplined problem-solving approach.
-</p>
-
-<p align="center">
-Focused on mastering <b>Data Structures & Algorithms</b> and consistently improving through competitive programming.
-</p>
-
-<p align="center">
-Building scalable applications using the <b>MERN Stack</b> while exploring advanced concepts in <b>Artificial Intelligence, Machine Learning, and Deep Learning</b>.
-</p>
-
-<p align="center">
-Driven by the goal of developing impactful, real-world technology solutions.
-</p>
-
 ## ⚡ Tech Stack
 
 ### 👨‍💻 Programming Languages
@@ -89,15 +71,6 @@ Libraries: **NumPy • Pandas • Matplotlib**
 
 ---
 
-## 🚀 Current Focus
-
-- 🔥 Mastering Advanced DSA  
-- ⚡ Building Full Stack MERN Projects  
-- 🤖 Exploring AI/ML Real-world Implementations  
-- 🧩 Preparing for Coding Contests & Interviews  
-
----
-
 ## 🤝 Let's Connect
 
 <p align="center">
@@ -124,6 +97,7 @@ Libraries: **NumPy • Pandas • Matplotlib**
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=anuragverma4895&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=anuragverma4895&theme=dark&hide_border=false)<br/>
@@ -141,9 +115,4 @@ Libraries: **NumPy • Pandas • Matplotlib**
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-⭐ Thanks for visiting my profile! 😊  
-
-ye hai mera pura read me 
-
-ise aise kr do hi ye na lge ki ai likha hai mtlb ye jo tum sare emoji use krte ho usi se pta chalta hai ki ye ai se likh  gya hai to imaji sare hatao aur jo cheej reate ho rhi hai use sahi se kro
-aur khhob aattractive sa kro is
+⭐ Thanks for visiting my profile! 😊
