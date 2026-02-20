@@ -56,22 +56,25 @@ Libraries: **NumPy • Pandas • Matplotlib**
 
 ---
 
-# 🏆 Competitive Programming Profiles
+## Competitive Programming
 
 <p align="center">
   <a href="https://leetcode.com/u/AnuragVerma2035/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-AnuragVerma2035-orange?style=for-the-badge&logo=leetcode" />
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
   </a>
   
   <a href="https://www.codechef.com/users/anuragverma203" target="_blank">
-    <img src="https://img.shields.io/badge/CodeChef-AnuragVerma203-brown?style=for-the-badge&logo=codechef" />
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
   </a>
   
   <a href="https://codeforces.com/profile/anuragverma4895" target="_blank">
-    <img src="https://img.shields.io/badge/Codeforces-AnuragVerma4895-blue?style=for-the-badge&logo=codeforces" />
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
+  </a>
+
+  <a href="https://codolio.com/profile/anuragverma4895" target="_blank">
+    <img src="https://img.shields.io/badge/Codolio-6C63FF?style=for-the-badge" />
   </a>
 </p>
-
 ---
 
 ## 📊 GitHub Stats
