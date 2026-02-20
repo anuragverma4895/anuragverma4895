@@ -10,7 +10,10 @@ Web Developer | Artificial Intelligence | Machine Learning | Deep Learning Explo
   <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=00C2FF&center=true&vCenter=true&width=800&lines=B.Tech+CSE+(AI)+Student;Data+Structures+%26+Algorithms+Enthusiast;Full+Stack+Developer+(MERN);AI+%7C+ML+%7C+DL+Explorer;Competitive+Programmer" />
 </p>
 
+
 ## Competitive Programming
+
+
 
 <p align="center">
   <a href="https://leetcode.com/u/AnuragVerma2035/" target="_blank">
@@ -30,7 +33,9 @@ Web Developer | Artificial Intelligence | Machine Learning | Deep Learning Explo
   </a>
 </p>
 
-## 🤝 Let's Connect
+
+## Let's Connect
+
 
 <p align="center">
   <a href="https://www.linkedin.com/in/anuragverma4895/" target="_blank">
@@ -45,10 +50,6 @@ Web Developer | Artificial Intelligence | Machine Learning | Deep Learning Explo
 </p>
 
 ---
-
-<p align="center">
-  💡 “Consistency + Code + Curiosity = Growth” 🚀
-</p>
 
 <!-- Snake Game Repo View -->
 
