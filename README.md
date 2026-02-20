@@ -10,8 +10,6 @@ Web Developer | Artificial Intelligence | Machine Learning | Deep Learning Explo
   <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=00C2FF&center=true&vCenter=true&width=800&lines=B.Tech+CSE+(AI)+Student;Data+Structures+%26+Algorithms+Enthusiast;Full+Stack+Developer+(MERN);AI+%7C+ML+%7C+DL+Explorer;Competitive+Programmer" />
 </p>
 
----
-
 ## Competitive Programming
 
 <p align="center">
@@ -31,20 +29,13 @@ Web Developer | Artificial Intelligence | Machine Learning | Deep Learning Explo
     <img src="https://img.shields.io/badge/Codolio-6C63FF?style=for-the-badge" />
   </a>
 </p>
----
 
 ## 🤝 Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/anuragverma4895/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Anurag%20Verma-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/anurag_verma_575" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-anurag__verma__575-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="mailto:anuragverma4895@gmail.com">
-    <img src="https://img.shields.io/badge/Email-anuragverma4895@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+  <a href="https://www.linkedin.com/in/anuragverma4895/" target="_blank">LinkedIn</a> • 
+  <a href="https://instagram.com/anurag_verma_575" target="_blank">Instagram</a> • 
+  <a href="mailto:anuragverma4895@gmail.com">Gmail</a>
 </p>
 
 ---
@@ -52,6 +43,7 @@ Web Developer | Artificial Intelligence | Machine Learning | Deep Learning Explo
 <p align="center">
   💡 “Consistency + Code + Curiosity = Growth” 🚀
 </p>
+
 
 <!-- Snake Game Repo View -->
 
