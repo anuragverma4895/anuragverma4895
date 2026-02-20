@@ -1,33 +1,105 @@
-# 👋 Hi, I'm **Anurag Verma**
+<!-- ======================== HEADER ======================== -->
 
-I’m a **B.Tech CSE (AI) student** passionate about learning and exploring new technologies that solve real-world problems.  
+<h1 align="center">Hi 👋, I'm Anurag Verma</h1>
 
-I have a strong foundation in **Data Structures and Algorithms (DSA)** and actively practice problem-solving on platforms like **LeetCode**, **CodeChef**, and **Codeforces**. Alongside DSA, I’ve studied **Artificial Intelligence (AI)**, **Machine Learning (ML)**, and **Deep Learning (DL)** as part of my coursework and implemented small projects to explore their applications.  
+<h3 align="center">
+🚀 Web Developer | 🤖 Machine Learning Enthusiast | 🧠 Deep Learning Explorer | ⚡ Artificial Intelligence Learner
+</h3>
 
----
-
-## 🧠 Skills & Tools  
-- **Languages:** C++, Python, JavaScript (learning)  
-- **Core CS:** Data Structures & Algorithms (DSA), Object-Oriented Programming (OOP)  
-- **Artificial Intelligence:** Basic concepts & small implementations (AI/ML/DL)  
-- **Libraries & Frameworks:** NumPy, Pandas, Matplotlib  
-- **Web Development:** MERN Stack (learning & building projects)  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=00C2FF&center=true&vCenter=true&width=800&lines=B.Tech+CSE+(AI)+Student;Data+Structures+%26+Algorithms+Enthusiast;Full+Stack+Developer+(MERN);AI+%7C+ML+%7C+DL+Explorer;Competitive+Programmer" />
+</p>
 
 ---
 
-## 🚀 What I'm Working On  
-- Practicing **DSA** for coding contests and interview preparation  
-- Learning **MERN stack** for full-stack development  
-- Exploring **AI/ML/DL** concepts and working on small implementations  
+## 🧑‍💻 About Me  
+
+- 🎓 B.Tech CSE (AI) Student  
+- 🧠 Strong foundation in **Data Structures & Algorithms**  
+- 🏆 Active Competitive Programmer  
+- 🌱 Currently learning **MERN Stack & Advanced AI Concepts**  
+- 🚀 Passionate about building real-world tech solutions  
 
 ---
 
-## 🤝 Let's Connect  
+## ⚡ Tech Stack
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/anuragverma4895/)  
-- 💻 [LeetCode](https://leetcode.com/u/AnuragVerma2035/)  
-- 🍜 [CodeChef](https://www.codechef.com/users/anuragverma203)
-- ⚡ [Codeforces](https://codeforces.com/profile/anuragverma4895)
+### 👨‍💻 Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,python,javascript" />
+</p>
+
+### 🧠 Core Concepts
+- Data Structures & Algorithms  
+- Object-Oriented Programming  
+- Problem Solving & Competitive Programming  
+
+### 🤖 AI / ML / DL
+<p>
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
+</p>
+
+Libraries: **NumPy • Pandas • Matplotlib**
+
+### 🌐 Web Development (MERN)
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs" />
+</p>
+
+---
+
+# 🏆 Competitive Programming Profiles
+
+<p align="center">
+  <a href="https://leetcode.com/u/AnuragVerma2035/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-AnuragVerma2035-orange?style=for-the-badge&logo=leetcode" />
+  </a>
+  
+  <a href="https://www.codechef.com/users/anuragverma203" target="_blank">
+    <img src="https://img.shields.io/badge/CodeChef-AnuragVerma203-brown?style=for-the-badge&logo=codechef" />
+  </a>
+  
+  <a href="https://codeforces.com/profile/anuragverma4895" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces-AnuragVerma4895-blue?style=for-the-badge&logo=codeforces" />
+  </a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AnuragVerma2035&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnuragVerma2035&theme=tokyonight" />
+</p>
+
+---
+
+## 🚀 Current Focus
+
+- 🔥 Mastering Advanced DSA  
+- ⚡ Building Full Stack MERN Projects  
+- 🤖 Exploring AI/ML Real-world Implementations  
+- 🧩 Preparing for Coding Contests & Interviews  
+
+---
+
+## 🤝 Let's Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/anuragverma4895/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Anurag%20Verma-0077B5?style=for-the-badge&logo=linkedin" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  💡 “Consistency + Code + Curiosity = Growth” 🚀
+</p>
 
 
 ## 🌐 Socials:
