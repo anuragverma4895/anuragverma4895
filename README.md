@@ -61,21 +61,7 @@ Web Developer | Artificial Intelligence | Machine Learning | Deep Learning Explo
 ### Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sudhss&theme=tokyo-night&area=true" width="100%" />
-</div>
-
-<br/>
-
-<div align="center">
-  <a href="https://Sudhss.github.io/portfolio/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-45F7A3?style=for-the-badge&logo=ko-fi&logoColor=black" />
-  </a>
-  <a href="https://www.linkedin.com/in/sudhs-shukla/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:shuklasudhanshu230405@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anuragverma4895&theme=tokyo-night&area=true" width="100%" />
 </div>
 
 ---
