@@ -58,6 +58,28 @@ Web Developer | Artificial Intelligence | Machine Learning | Deep Learning Explo
 ![](https://nirzak-streak-stats.vercel.app/?user=anuragverma4895&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=anuragverma4895&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+### Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sudhss&theme=tokyo-night&area=true" width="100%" />
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="https://Sudhss.github.io/portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-45F7A3?style=for-the-badge&logo=ko-fi&logoColor=black" />
+  </a>
+  <a href="https://www.linkedin.com/in/sudhs-shukla/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:shuklasudhanshu230405@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</div>
+
+---
+
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=anuragverma4895&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
