@@ -13,8 +13,6 @@ Web Developer | Artificial Intelligence | Machine Learning | Deep Learning Explo
 
 ## Competitive Programming
 
-
-
 <p align="center">
   <a href="https://leetcode.com/u/AnuragVerma2035/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
@@ -38,7 +36,6 @@ Web Developer | Artificial Intelligence | Machine Learning | Deep Learning Explo
 
 ## Let's Connect
 
-
 <p align="center">
   <a href="https://www.linkedin.com/in/anuragverma4895/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -60,9 +57,15 @@ Web Developer | Artificial Intelligence | Machine Learning | Deep Learning Explo
 ![](https://nirzak-streak-stats.vercel.app/?user=anuragverma4895&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=anuragverma4895&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+<p align="center"><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=anuragverma4895&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=anuragverma4895&theme=2077" height="180em" /></p>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anuragverma4895&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
+<p  align="center">&nbsp;<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=anuragverma4895&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=anuragverma4895&theme=2077" height="180em" /><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anuragverma4895&theme=2077" height="180em" /></p>
 
+<p align="center">
+     <img width="49.5%" src="https://nirzak-streak-stats.vercel.app?user=anuragverma4895&theme=dark&hide_border=true" />
+</p>
 
 ### Activity
 
