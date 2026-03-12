@@ -88,8 +88,6 @@ Web Developer | Artificial Intelligence | Machine Learning | Deep Learning Explo
 </div>
 
 ---
-
-### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=anuragverma4895&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 <div align="center">
