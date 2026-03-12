@@ -59,10 +59,6 @@ Web Developer | Artificial Intelligence | Machine Learning | Deep Learning Explo
   <img src="https://nirzak-streak-stats.vercel.app/?user=anuragverma4895&theme=dark&hide_border=false" height="180em"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuragverma4895&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="180em"/>
-</p>
-
 ---
 
 ## 📈 GitHub Profile Summary
