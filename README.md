@@ -24,9 +24,11 @@ Web Developer | Artificial Intelligence | Machine Learning | Deep Learning Explo
     <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
   </a>
   
-  <a href="https://codeforces.com/profile/anuragverma4895" target="_blank">
+  <!--
+<a href="https://codeforces.com/profile/anuragverma4895" target="_blank">
     <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
-  </a>
+</a>
+-->
 
   <a href="https://codolio.com/profile/anuragverma4895" target="_blank">
     <img src="https://img.shields.io/badge/Codolio-6C63FF?style=for-the-badge" />
