@@ -54,7 +54,7 @@ Web Developer | Artificial Intelligence | Machine Learning | Deep Learning Explo
 
 ## 📊 GitHub Stats
 
-  <p align="center">
+<p align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=anuragverma4895&theme=dark&hide_border=false" height="180em"/>
 </p>
 
