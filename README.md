@@ -28,18 +28,10 @@
   <b>🧠 Data Structures & Algorithms</b>
 </p>
 
-<p>
+<!-- <p>
   <img
     src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=00C2FF&center=false&vCenter=true&width=650&lines=B.Tech+CSE+(AI)+Student;Data+Structures+%26+Algorithms+Enthusiast;Full+Stack+Developer+(MERN);AI+%7C+ML+%7C+DL+Explorer;Competitive+Programmer"
   />
-</p>
-
-<!-- <p>
-  <a href="https://portfolio-anurag-verma.vercel.app/" target="_blank">
-    <img
-      src="https://img.shields.io/badge/Visit%20My%20Portfolio-00C853?style=for-the-badge&logo=vercel&logoColor=white"
-    />
-  </a>
 </p> -->
 
 
