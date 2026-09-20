@@ -128,18 +128,11 @@
 <div align="center">
 
 <img
-  src="https://github-contribution-growth-graph.qkitzero.xyz/graph/contributions?user=anuragverma4895&theme=dark&size=large"
+  src="https://github-readme-insight-terminal-asci.vercel.app/svg/graph?user=anuragverma4895&theme=mac"
   width="100%"
 />
 
 </div>
-
----
-
-<img
-  src="https://github-contributor-stats.vercel.app/api?username=anuragverma4895&limit=5&theme=dark&combine_all_yearly_contributions=true"
-  width="100%"
-/>
 
 <img src="https://pacman.abozanona.me?username=anuragverma4895" />
 
