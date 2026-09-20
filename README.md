@@ -128,7 +128,7 @@
 <div align="center">
 
 <img
-  src="https://github-readme-stats.vercel.app/api?username=anuragverma4895&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
+  src="https://github-contribution-growth-graph.qkitzero.xyz/graph/contributions?user=anuragverma4895&theme=dark&size=large"
   width="100%"
 />
 
