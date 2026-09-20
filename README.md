@@ -1,22 +1,42 @@
-<img align="right" height="280" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3Z2NGU4NnhhbHVrMjgxMmZqc3Btcjd0ZzRhYjZvb3lkZTJpaXM0eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BaRZyxBaUCO2u37k96/giphy.webp" />
-
 <!-- ======================== HEADER ======================== -->
 
-<h1 align="left">Hi, I'm Anurag Verma</h1>
+<table>
+<tr>
 
-<h3 align="left">
-Web Developer | Artificial Intelligence | Machine Learning | Deep Learning Explorer
-</h3>
+<!-- ======================== LEFT COLUMN : GIF ======================== -->
 
-<p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=00C2FF&center=false&vCenter=true&width=800&lines=B.Tech+CSE+(AI)+Student;Data+Structures+%26+Algorithms+Enthusiast;Full+Stack+Developer+(MERN);AI+%7C+ML+%7C+DL+Explorer;Competitive+Programmer" />
+<td width="40%" align="center" valign="middle">
+
+<img height="280" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3Z2NGU4NnhhbHVrMjgxMmZqc3Btcjd0ZzRhYjZvb3lkZTJpaXM0eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BaRZyxBaUCO2u37k96/giphy.webp" />
+
+</td>
+
+<!-- ======================== RIGHT COLUMN : CONTENT ======================== -->
+
+<td width="60%" valign="middle">
+
+<p>
+  <font size="6"><b>Hi, I'm Anurag Verma</b></font>
 </p>
 
-<p align="left">
+<p>
+  <b>Web Developer | Artificial Intelligence | Machine Learning | Deep Learning Explorer</b>
+</p>
+
+<p>
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=00C2FF&center=false&vCenter=true&width=600&lines=B.Tech+CSE+(AI)+Student;Data+Structures+%26+Algorithms+Enthusiast;Full+Stack+Developer+(MERN);AI+%7C+ML+%7C+DL+Explorer;Competitive+Programmer" />
+</p>
+
+<p>
   <a href="https://portfolio-anurag-verma.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-00C853?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
+
+</td>
+
+</tr>
+</table>
 
 
 ## Competitive Programming
