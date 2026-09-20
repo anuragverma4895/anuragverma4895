@@ -125,8 +125,6 @@
 
 ### Activity
 
-### Activity
-
 <div align="center">
 
 <img
