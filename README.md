@@ -13,7 +13,7 @@
 
 <p>
   <font size="4">
-    <b>Web Developer | Artificial Intelligence | Machine Learning | Deep Learning Explorer</b>
+    Web Developer | Artificial Intelligence | Machine Learning | Deep Learning Explorer
   </font>
 </p>
 
@@ -25,18 +25,20 @@
 
 <p>
   <a href="https://portfolio-anurag-verma.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-00C853?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img
+      src="https://img.shields.io/badge/Visit%20My%20Portfolio-00C853?style=for-the-badge&logo=vercel&logoColor=white"
+    />
   </a>
 </p>
 
 </td>
 
-<!-- ======================== RIGHT : IMAGE ======================== -->
+<!-- ======================== RIGHT : GIF ======================== -->
 
 <td width="35%" align="center" valign="middle">
 
 <img
-  height="300"
+  height="280"
   src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3Z2NGU4NnhhbHVrMjgxMmZqc3Btcjd0ZzRhYjZvb3lkZTJpaXM0eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BaRZyxBaUCO2u37k96/giphy.webp"
 />
 
