@@ -6,11 +6,11 @@
   src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3Z2NGU4NnhhbHVrMjgxMmZqc3Btcjd0ZzRhYjZvb3lkZTJpaXM0eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BaRZyxBaUCO2u37k96/giphy.webp"
 />
 
-<h1 align="left">Hi, I'm Anurag Verma\</h1>
+<h1 align="left">Hi, I'm Anurag Verma</h1>h1>
 
 <p>
   <font size="4">
-    <b>Computer Science & AI Student | Full Stack Developer | AI/ML Enthusiast</b>
+    <b>Computer Science & AI Student | Full Stack Developer | AI/ML Engineer</b>
   </font>
 </p>
 
@@ -33,15 +33,15 @@
   <b>Data Structures & Algorithms</b>
 </p>
 
-<p>
+<!-- <p>
   I have worked on projects involving
   <b>AI-powered applications, MERN-based systems, computer vision,
   generative AI, automation, and API integrations</b> — always focusing on
   building practical solutions rather than just learning the theory.
-</p>
+</p> -->
 
 <p>
-  <b>🚀 Build. Learn. Solve. Repeat.</b>
+  <b>Build. Learn. Solve. Repeat.</b>
 </p>
 
 
