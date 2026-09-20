@@ -6,7 +6,9 @@
   src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3Z2NGU4NnhhbHVrMjgxMmZqc3Btcjd0ZzRhYjZvb3lkZTJpaXM0eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BaRZyxBaUCO2u37k96/giphy.webp"
 />
 
-<h1 align="left">Hi, I'm Anurag Verma</h1>
+<p>
+  <font size="7"><b>Hi, I'm Anurag Verma</b></font>
+</p>
 
 <p>
   <font size="4">
