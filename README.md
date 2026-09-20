@@ -7,7 +7,7 @@
 />
 
 <p>
-  <font size="7"><b>Hi, I'm Anurag Verma</b></font>
+  <font size="20"><b>Hi, I'm Anurag Verma</b></font>
 </p>
 
 <p>
