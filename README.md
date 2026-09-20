@@ -7,19 +7,26 @@
 />
 
 <p>
-  <font size="20"><b>Hi, I'm Anurag Verma</b></font>
+  <font size="7"><b>Hi, I'm Anurag Verma</b></font>
 </p>
 
 <p>
   <font size="4">
-    <b>Web Developer | Artificial Intelligence | Machine Learning | Deep Learning Explorer</b>
+    <b>Computer Science & AI Student | Full Stack Developer | AI/ML Enthusiast</b>
   </font>
 </p>
 
 <p>
-  B.Tech CSE (AI) student passionate about building
-  <b>AI-powered applications</b>, scalable web solutions,
-  and solving challenging problems with code.
+  B.Tech CSE (AI) student who loves turning ideas into
+  <b>real-world applications</b> using code, AI, and modern web technologies.
+  I enjoy building intelligent systems, scalable web applications,
+  and solving challenging problems through Data Structures & Algorithms.
+</p>
+
+<p>
+  My interests lie at the intersection of
+  <b>Artificial Intelligence, Machine Learning, Deep Learning, Full Stack Development</b>
+  and <b>Competitive Programming</b>.
 </p>
 
 <p>
@@ -28,11 +35,16 @@
   <b>🧠 Data Structures & Algorithms</b>
 </p>
 
-<!-- <p>
-  <img
-    src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=00C2FF&center=false&vCenter=true&width=650&lines=B.Tech+CSE+(AI)+Student;Data+Structures+%26+Algorithms+Enthusiast;Full+Stack+Developer+(MERN);AI+%7C+ML+%7C+DL+Explorer;Competitive+Programmer"
-  />
-</p> -->
+<p>
+  I have worked on projects involving
+  <b>AI-powered applications, MERN-based systems, computer vision,
+  generative AI, automation, and API integrations</b> — always focusing on
+  building practical solutions rather than just learning the theory.
+</p>
+
+<p>
+  <b>🚀 Build. Learn. Solve. Repeat.</b>
+</p>
 
 
 ## Competitive Programming
