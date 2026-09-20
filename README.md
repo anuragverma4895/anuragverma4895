@@ -130,11 +130,7 @@
 ---
 ![](https://github-contributor-stats.vercel.app/api?username=anuragverma4895&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
-
-⭐ Thanks for visiting my profile! 😊
-
 
 <img src="https://pacman.abozanona.me?username=anuragverma4895" />
+
+⭐ Thanks for visiting my profile! 😊
