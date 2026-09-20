@@ -1,11 +1,10 @@
 <!-- ======================== HEADER ======================== -->
 
-<table width="100%">
-<tr>
-
-<!-- ======================== LEFT : CONTENT ======================== -->
-
-<td width="65%" valign="middle">
+<img
+  align="right"
+  height="300"
+  src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3Z2NGU4NnhhbHVrMjgxMmZqc3Btcjd0ZzRhYjZvb3lkZTJpaXM0eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BaRZyxBaUCO2u37k96/giphy.webp"
+/>
 
 <p>
   <font size="7"><b>Hi, I'm Anurag Verma</b></font>
@@ -13,8 +12,20 @@
 
 <p>
   <font size="4">
-    Web Developer | Artificial Intelligence | Machine Learning | Deep Learning Explorer
+    <b>Web Developer | Artificial Intelligence | Machine Learning | Deep Learning Explorer</b>
   </font>
+</p>
+
+<p>
+  B.Tech CSE (AI) student passionate about building
+  <b>AI-powered applications</b>, scalable web solutions,
+  and solving challenging problems with code.
+</p>
+
+<p>
+  <b>💻 Full Stack Development</b> &nbsp; | &nbsp;
+  <b>🤖 AI / ML / DL</b> &nbsp; | &nbsp;
+  <b>🧠 Data Structures & Algorithms</b>
 </p>
 
 <p>
@@ -30,22 +41,6 @@
     />
   </a>
 </p>
-
-</td>
-
-<!-- ======================== RIGHT : GIF ======================== -->
-
-<td width="35%" align="center" valign="middle">
-
-<img
-  height="280"
-  src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3Z2NGU4NnhhbHVrMjgxMmZqc3Btcjd0ZzRhYjZvb3lkZTJpaXM0eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BaRZyxBaUCO2u37k96/giphy.webp"
-/>
-
-</td>
-
-</tr>
-</table>
 
 
 ## Competitive Programming
