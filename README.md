@@ -132,6 +132,7 @@
     alt="GitHub Daily Activity"
   />
 </p>
+<br>
 
 <img src="https://pacman.abozanona.me?username=anuragverma4895" />
 
