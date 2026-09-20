@@ -1,30 +1,24 @@
 <!-- ======================== HEADER ======================== -->
 
-<table>
+<table width="100%">
 <tr>
 
-<!-- ======================== LEFT COLUMN : GIF ======================== -->
+<!-- ======================== LEFT : CONTENT ======================== -->
 
-<td width="40%" align="center" valign="middle">
-
-<img height="280" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3Z2NGU4NnhhbHVrMjgxMmZqc3Btcjd0ZzRhYjZvb3lkZTJpaXM0eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BaRZyxBaUCO2u37k96/giphy.webp" />
-
-</td>
-
-<!-- ======================== RIGHT COLUMN : CONTENT ======================== -->
-
-<td width="60%" valign="middle">
+<td width="65%" valign="middle">
 
 <p>
-  <font size="6"><b>Hi, I'm Anurag Verma</b></font>
+  <strong style="font-size: 36px;">Hi, I'm Anurag Verma</strong>
 </p>
 
 <p>
-  <b>Web Developer | Artificial Intelligence | Machine Learning | Deep Learning Explorer</b>
+  <strong>
+    Web Developer | Artificial Intelligence | Machine Learning | Deep Learning Explorer
+  </strong>
 </p>
 
 <p>
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=00C2FF&center=false&vCenter=true&width=600&lines=B.Tech+CSE+(AI)+Student;Data+Structures+%26+Algorithms+Enthusiast;Full+Stack+Developer+(MERN);AI+%7C+ML+%7C+DL+Explorer;Competitive+Programmer" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=00C2FF&center=false&vCenter=true&width=650&lines=B.Tech+CSE+(AI)+Student;Data+Structures+%26+Algorithms+Enthusiast;Full+Stack+Developer+(MERN);AI+%7C+ML+%7C+DL+Explorer;Competitive+Programmer" />
 </p>
 
 <p>
@@ -32,6 +26,14 @@
     <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-00C853?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
+
+</td>
+
+<!-- ======================== RIGHT : GIF ======================== -->
+
+<td width="35%" align="center" valign="middle">
+
+<img height="280" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3Z2NGU4NnhhbHVrMjgxMmZqc3Btcjd0ZzRhYjZvb3lkZTJpaXM0eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BaRZyxBaUCO2u37k96/giphy.webp" />
 
 </td>
 
