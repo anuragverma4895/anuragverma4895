@@ -125,14 +125,13 @@
 
 ### Activity
 
-<div align="center">
-
-<img
-  src="https://github-readme-insight-terminal-asci.vercel.app/svg/graph?user=anuragverma4895&theme=mac"
-  width="100%"
-/>
-
-</div>
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/anuragverma4895/anuragverma4895/activity-assets/activity-30d.svg"
+    width="100%"
+    alt="GitHub Daily Activity"
+  />
+</p>
 
 <img src="https://pacman.abozanona.me?username=anuragverma4895" />
 
