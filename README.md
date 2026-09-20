@@ -127,7 +127,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=anuragverma4895&theme=tokyo-night&area=true" width="100%" />
 </div>
 
----
 ![](https://github-contributor-stats.vercel.app/api?username=anuragverma4895&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 
