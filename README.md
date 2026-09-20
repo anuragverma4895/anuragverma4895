@@ -1,26 +1,30 @@
-###
+<div align="center">
 
-<img align="right" height="280" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3Z2NGU4NnhhbHVrMjgxMmZqc3Btcjd0ZzRhYjZvb3lkZTJpaXM0eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BaRZyxBaUCO2u37k96/giphy.webp"  />
+  <img align="right" height="280" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3Z2NGU4NnhhbHVrMjgxMmZqc3Btcjd0ZzRhYjZvb3lkZTJpaXM0eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BaRZyxBaUCO2u37k96/giphy.webp" />
 
-###
+  <br>
 
-<!-- ======================== HEADER ======================== -->
+  <h1 align="left">Hi, I'm Anurag Verma</h1>
 
-<h1 align="center">Hi, I'm Anurag Verma</h1>
+  <h3 align="left">
+    Web Developer | Artificial Intelligence |<br>
+    Machine Learning | Deep Learning Explorer
+  </h3>
 
-<h3 align="center">
-Web Developer | Artificial Intelligence | Machine Learning | Deep Learning Explorer
-</h3>
+  <p align="left">
+    <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=00C2FF&left=true&vCenter=true&width=600&lines=B.Tech+CSE+(AI)+Student;Data+Structures+%26+Algorithms+Enthusiast;Full+Stack+Developer+(MERN);AI+%7C+ML+%7C+DL+Explorer;Competitive+Programmer" />
+  </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=00C2FF&center=true&vCenter=true&width=800&lines=B.Tech+CSE+(AI)+Student;Data+Structures+%26+Algorithms+Enthusiast;Full+Stack+Developer+(MERN);AI+%7C+ML+%7C+DL+Explorer;Competitive+Programmer" />
-</p>
+  <p align="left">
+    <a href="https://portfolio-anurag-verma.vercel.app/" target="_blank">
+      <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-00C853?style=for-the-badge&logo=vercel&logoColor=white" />
+    </a>
+  </p>
 
-<p align="center">
-  <a href="https://portfolio-anurag-verma.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-00C853?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-</p>
+  <br clear="right">
+
+</div>
+
 
 ## Competitive Programming
 
