@@ -42,9 +42,9 @@
   building practical solutions rather than just learning the theory.
 </p> -->
 
-<p>
+<!-- <p>
   <b>Build. Learn. Solve. Repeat.</b>
-</p>
+</p> -->
 <br>
 
 
