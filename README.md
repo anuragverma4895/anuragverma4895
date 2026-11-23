@@ -120,19 +120,17 @@
 
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anuragverma4895&theme=2077"/>
+  
 </p>
 
 ### Activity
 
 <p align="center">
-  <img
-    src="https://raw.githubusercontent.com/anuragverma4895/anuragverma4895/activity-assets/activity-30d.svg"
-    width="100%"
-    alt="GitHub Daily Activity"
-  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anuragverma4895&theme=github-dark&hide_border=true&radius=16" />
 </p>
 <br>
 
 <img src="https://pacman.abozanona.me?username=anuragverma4895" />
+
 
 ⭐ Thanks for visiting my profile! 😊
